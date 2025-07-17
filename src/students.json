@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": "b48d",
+      "name": "Иванов Иван Иванович",
+      "course": "3",
+      "group": "АСОИР-221",
+      "studyType": "budget",
+      "debts": 0,
+      "gpa": 4,
+      "passes": 30,
+      "activity": "medium"
+    }
+  ],
+  "users": [
+    {
+      "id": "7130",
+      "username": "User",
+      "password": "Qwerty1",
+      "fullName": "Тестовый Пользователь",
+      "phoneOrEmail": "+375000000000",
+      "role": "user"
+    }
+  ]
+}
